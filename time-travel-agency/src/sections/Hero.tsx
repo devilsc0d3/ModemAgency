@@ -7,7 +7,7 @@ export function Hero() {
             <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a0a]/90 via-[#0a0a0a]/60 to-[#0a0a0a] z-10 mix-blend-multiply" />
                 <img
-                    src="https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=2094&auto=format&fit=crop"
+                    src="/images/hero_time_travel_luxury_1772610477286.png"
                     alt="Space Time Continuum"
                     className="w-full h-full object-cover opacity-30"
                 />

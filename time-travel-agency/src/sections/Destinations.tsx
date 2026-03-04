@@ -5,7 +5,7 @@ const destinations = [
         id: 'paris-1889',
         title: 'Paris 1889',
         subtitle: 'La Belle Époque',
-        image: 'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?q=80&w=1200&auto=format&fit=crop',
+        image: '/images/paris_1889_luxury_1772610496626.png',
         description: 'Vivez l\'Exposition Universelle, l\'inauguration de la Tour Eiffel et le faste parisien dans son âge d\'or.',
         price: 'À partir de 4 900€'
     },
@@ -13,7 +13,7 @@ const destinations = [
         id: 'cretace',
         title: 'Le Crétacé',
         subtitle: 'Il y a 65 Millions d\'années',
-        image: 'https://images.unsplash.com/photo-1518381534279-4d6402eddc38?q=80&w=1200&auto=format&fit=crop',
+        image: '/images/cretaceous_dinosaur_luxury_1772610510556.png',
         description: 'Une expédition ultra-sécurisée au cœur de la nature préhistorique pour observer les plus grands prédateurs.',
         price: 'À partir de 9 900€'
     },
@@ -21,7 +21,7 @@ const destinations = [
         id: 'florence-1504',
         title: 'Florence 1504',
         subtitle: 'La Renaissance',
-        image: 'https://images.unsplash.com/photo-1543343339-e4d0263f7dc5?q=80&w=1200&auto=format&fit=crop',
+        image: '/images/florence_1504_luxury_1772610528449.png',
         description: 'Une immersion privée dans l\'art et l\'architecture aux côtés de Michel-Ange et de Léonard de Vinci.',
         price: 'À partir de 5 900€'
     }
